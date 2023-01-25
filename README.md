@@ -7,3 +7,4 @@ biggest of three numbers![image](https://user-images.githubusercontent.com/12352
 swapping of two numbers![image](https://user-images.githubusercontent.com/123528765/214480173-2aac65e1-65a1-4101-8913-9259396c45c6.png)
 factorial![image](https://user-images.githubusercontent.com/123528765/214480437-b1e69b78-36bc-43a1-a44c-4780b60248c0.png)
 arithmetic operations of two nummber![image](https://user-images.githubusercontent.com/123528765/214480496-fb4946f0-9416-40af-817d-b5335f2cc2b1.png)
+make list using elif![image](https://user-images.githubusercontent.com/123528765/214495825-b894d772-e8e3-42c1-abb7-9b6434f95769.png)
