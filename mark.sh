@@ -1,0 +1,56 @@
+echo "" 
+echo 'Student Mark List' 
+echo ""
+echo Enter the Student name 
+read name 
+echo Enter the Register number 
+read rno 
+echo "Enter the Mark of tamil"
+read m1 
+echo "Enter the Mark of english"
+read m2 
+echo "Enter the Mark of maths"
+read m3 
+echo "Enter the Mark of science"
+read m4 
+echo "Enter the Mark of social"
+read m5 
+tot=$(expr $m1 + $m2 + $m3 + $m4 + $m5) 
+avg=$(expr $tot / 5) 
+echo "" 
+echo 'Student Mark List' 
+echo "" 
+echo "Student Name    : $name" 
+echo "Register Number : $rno" 
+echo "tamil           : $m1" 
+echo "english         : $m2" 
+echo "maths           : $m3" 
+echo "science         : $m4" 
+echo "social          : $m5" 
+echo "Total           : $tot" 
+echo "Average         : $avg" 
+if [ $m1 -ge 35 ] && [ $m2 -ge 35 ] && [ $m3 -ge 35 ] && [ $m4 -ge 35 ] && [ $m5 -ge 35 ] 
+then 
+echo "Result          : Pass" 
+if [ $avg -ge 90 ] 
+then 
+echo "Grade           : S" 
+elif [ $avg -ge 80 ] 
+then 
+echo "Grade           : A" 
+elif [ $avg -ge 70 ] 
+then 
+echo "Grade           : B" 
+elif [ $avg -ge 60 ] 
+then 
+echo "Grade           : C" 
+elif [ $avg -ge 50 ] 
+then 
+echo "Grade           : D" 
+elif [ $avg -ge 35 ] 
+then 
+echo "Grade           : E" 
+fi 
+else 
+echo "Result          : Fail" 
+fi 
