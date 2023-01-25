@@ -1,1 +1,9 @@
-# shell-programming
+palindrome![image](https://user-images.githubusercontent.com/123528765/214478496-78f39e40-0073-4ae6-9dc6-8431edbba2ad.png)
+leap year!![image](https://user-images.githubusercontent.com/123528765/214479148-6e98bf45-9345-41aa-9c10-aa8626ae5b4d.png)
+cube number!![image](https://user-images.githubusercontent.com/123528765/214479249-5b358d18-6fcf-4bf9-a8ad-63bfc9601e03.png)
+square number![image](https://user-images.githubusercontent.com/123528765/214479437-2941bbb4-e970-4239-9223-12dff3e16d6d.pngfirst )
+natural number![image](https://user-images.githubusercontent.com/123528765/214479643-c643cbeb-45d5-4466-bef6-099b8612b864.png)
+biggest of three numbers![image](https://user-images.githubusercontent.com/123528765/214479934-b764bf83-1a46-4033-aa2b-5c8abbafeb5d.png)
+swapping of two numbers![image](https://user-images.githubusercontent.com/123528765/214480173-2aac65e1-65a1-4101-8913-9259396c45c6.png)
+factorial![image](https://user-images.githubusercontent.com/123528765/214480437-b1e69b78-36bc-43a1-a44c-4780b60248c0.png)
+arithmetic operations of two nummber![image](https://user-images.githubusercontent.com/123528765/214480496-fb4946f0-9416-40af-817d-b5335f2cc2b1.png)
